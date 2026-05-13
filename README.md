@@ -12,9 +12,7 @@ This project helps in understanding:
 - Region-wise Sales Performance
 - Top Performing Products
 - Category-wise Profit Analysis
-
----
-
+- 
 ## Tools Used
 
 - Python
@@ -24,8 +22,6 @@ This project helps in understanding:
 - Power BI
 - Excel
 - VS Code
-
----
 
 ## Dataset Used
 
@@ -43,7 +39,6 @@ The dataset contains:
 
 This dataset is used to perform sales analysis and create dashboard visualizations.
 
----
 
 ## Steps Performed
 
@@ -85,8 +80,6 @@ Built an interactive dashboard using:
 - Filters
 - Slicers
 
----
-
 ## Dashboard Features
 
 ### KPI Cards
@@ -107,8 +100,6 @@ Built an interactive dashboard using:
 - Category
 - Year
 
----
-
 ## Output
 
 Final output of this project includes:
@@ -118,24 +109,6 @@ Final output of this project includes:
 - Power BI dashboard
 - Dashboard screenshots
 - Sales insights and business analysis
-
----
-
-## Screenshots
-
-### Dashboard Screenshot
-
-(Add your dashboard screenshot here)
-
-### Python Code Screenshot
-
-(Add your code screenshot here)
-
-### Graph Output Screenshot
-
-(Add your chart screenshot here)
-
----
 
 ## Conclusion
 
